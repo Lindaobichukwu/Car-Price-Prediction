@@ -28,7 +28,7 @@
                                                         dropping duplicate rows and missing values etc.
                     
                      . Visualized my dataset: 
-                                Some of the data visualized are as follows:
+                                Some of the data visualized are:
                                        . visualized the distribution of the car prices
                                        . Found the outliers
                                        . Found the number of cars per make
