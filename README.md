@@ -39,5 +39,6 @@
                                        . Analyzed the features of the car conditions
                                        . Analyzed the Models of the car brands
 
-### Conclusion: In conclusion, prices of cars manufactured varied across the years. With 2011 being the highest price in production and 2022 the least.¶
-                With Ultima and Camry been the most produced car models.
+### Conclusion: 
+              In conclusion, prices of cars manufactured varied across the years. With 2011 being the highest price in production and 2022 the least.¶
+              With Ultima and Camry been the most produced car models.
