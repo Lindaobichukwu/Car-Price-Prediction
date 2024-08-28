@@ -39,4 +39,4 @@
                                        . Analyzed the features of the car conditions
                                        . Analyzed the Models of the car brands
                     
-                              This visualizations enabled me draw conclusive insights from my analysis.
+                              This visualizations enabled me draw conclusive insights.
